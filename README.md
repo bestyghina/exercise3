@@ -1,0 +1,2 @@
+# exercise3
+SWAPI JAVASCRIPT
